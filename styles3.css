@@ -14,8 +14,8 @@
 .container-left {
     display: inline-block;
     width: 60%;
-    margin-top: 22%;
-    padding-left: 100px;
+    margin-top: 18%;
+    padding-left: 117px;
 }
 
 .container-right {
@@ -36,7 +36,7 @@ h1 {
     font-weight: 400;
     font-size: 70px;
     line-height: 80px;
-    width: 368px;
+    width: 400px;
 }
 
 p {
@@ -45,7 +45,7 @@ p {
     line-height: 48px;
     opacity: 0.6;
     margin: 15px 0;
-    width: 540px;
+    width: 561px;
 }
 
 button {
